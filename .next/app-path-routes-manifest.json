@@ -1,0 +1,17 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/activities/[slug]/page": "/activities/[slug]",
+  "/admin/[slug]/page": "/admin/[slug]",
+  "/admin/new/page": "/admin/new",
+  "/admin/page": "/admin",
+  "/api/admin/listings/[slug]/route": "/api/admin/listings/[slug]",
+  "/api/admin/listings/route": "/api/admin/listings",
+  "/api/admin/upload/route": "/api/admin/upload",
+  "/favicon.ico/route": "/favicon.ico",
+  "/for-families/page": "/for-families",
+  "/for-teams/page": "/for-teams",
+  "/list-your-experience/page": "/list-your-experience",
+  "/page": "/",
+  "/studio/[[...tool]]/page": "/studio/[[...tool]]"
+}
