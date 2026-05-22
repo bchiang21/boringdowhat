@@ -1,0 +1,25 @@
+{
+  "id": "3",
+  "featured": false,
+  "slug": "kintsugi",
+  "title": "Kintsugi Art Studio",
+  "provider": "Kintsugi Art Studio",
+  "image": "/images/896e51_7583ce0d6b334e078b19cbdd10ddadb4~mv2.avif",
+  "description": "Kintsugi is Japan's ancient art of celebrating broken pottery. It is rooted in an eastern philosophy of finding beauty in imperfections. Many believe it can help us to accept our flaws and foster a sense of peace and fulfillment.\n\nhttps://www.kintsugiartstudio.com/",
+  "category": "Pottery",
+  "location": "Joo Chiat",
+  "duration": "3h",
+  "price": 95,
+  "pax": "1–12",
+  "tags": [
+    "emotional",
+    "educational",
+    "solo"
+  ],
+  "images": [],
+  "host": {
+    "name": "The Kintsugi Team",
+    "bio": "The Kintsugi Art Studio team are passionate practitioners of the Japanese art form, trained in both the traditional urushi lacquer technique and modern adaptations. They believe the practice of repair is as meaningful as the object itself."
+  },
+  "whatToExpect": "You'll begin by selecting a piece of broken pottery — or bringing your own — and understanding the philosophy behind kintsugi: that breakage and repair are part of an object's history, not something to hide.\n\nUsing a food-safe, non-toxic lacquer mixed with gold powder, you'll carefully fill each crack with deliberate brushwork. The process is meditative and unhurried.\n\nYour piece will need 24–48 hours to cure fully. The studio will wrap it carefully for transport. You'll leave with both the repaired piece and a deeper appreciation for imperfection."
+}

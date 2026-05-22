@@ -1,0 +1,28 @@
+{
+  "id": "5",
+  "slug": "hawker-cook-off-various",
+  "title": "One Day Scuba Singapore",
+  "provider": "The Dive company",
+  "category": "Sports",
+  "location": "Regional (island-wide)",
+  "duration": "3h",
+  "price": 55,
+  "pax": "10–40",
+  "featured": true,
+  "tags": [
+    "active",
+    "introvert"
+  ],
+  "description": "🇸🇬 Singapore-Based Open Water Course‍  ‍\n\nTrain and certify entirely in Singapore - perfect for tight schedules or local convenience.",
+  "image": "/images/1779196126392-zy0n6g92z89.jpg",
+  "images": [
+    "/images/1779196131082-f6zxb6dgyhb.jpg",
+    "/images/1779196136217-0uhla6qarur.jpg",
+    "/images/1779196146786-8824f55o39o.jpg"
+  ],
+  "host": {
+    "name": "Scuba Singapore",
+    "bio": "Team Kopi are Singapore-born food educators who've spent years documenting hawker recipes before they disappear. They run the cook-off as a love letter to hawker culture — competitive, loud, and delicious."
+  },
+  "whatToExpect": "Trying scuba for the first time can feel intimidating — but you're not alone. We’ve helped thousands of first-time divers become confident and certified.\n\nHere’s why beginners choose us:\n\n✅ Friendly, certified instructors who know how to coach first-timers  \n\n✅ Step-by-step training, starting in a shallow pool  \n\n✅ All dive equipment provided — just bring swimwear and curiosity  \n\n✅ Choose between local or tropical open water locations\n\nWe’ll support you every step of the way, from your first breath underwater to your final qualifying dive."
+}

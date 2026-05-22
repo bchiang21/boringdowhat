@@ -1,0 +1,24 @@
+{
+  "id": "8",
+  "slug": "amazing-race-singapore",
+  "title": "Amazing Race SG",
+  "provider": "Rally Co.",
+  "category": "Adventure",
+  "location": "City-wide",
+  "duration": "3.5h",
+  "price": 40,
+  "pax": "15–60",
+  "featured": true,
+  "tags": [
+    "team-bonding",
+    "active"
+  ],
+  "description": "A city-wide scavenger hunt across Singapore's neighbourhoods. Clues, checkpoints, and a fair amount of arguing about which MRT line to take. Good luck!",
+  "image": "/images/1779196599007-x0wm9o9ugrq.jpg",
+  "images": [],
+  "host": {
+    "name": "The Rally Co. Team",
+    "bio": "Rally Co. has been running city-wide adventure experiences across Singapore since 2015. Their facilitators are ex-event producers and avid urban explorers who know every shortcut, hawker stall, and hidden corner of the island."
+  },
+  "whatToExpect": "Your team will be split into groups of 5–8 and handed a sealed envelope at the starting point. Inside: your first clue.\n\nOver 3.5 hours you'll navigate across 6–8 checkpoints spread across Singapore's neighbourhoods — on foot, MRT, and the occasional taxi scramble. Each checkpoint has a challenge: a trivia question, a physical task, or a local vendor you need to track down.\n\nThe winning team gets bragging rights and a group photo at the finish line. Every team gets a debrief with the funniest moments from the day."
+}
