@@ -32,35 +32,50 @@ export default function HomeClient({ listings }: Props) {
 
   return (
     <>
-      {/* Hero */}
-      <section className="text-center py-16 px-6 max-w-2xl mx-auto">
-        <p className="text-xs font-semibold tracking-widest text-emerald-600 uppercase mb-4">
-          Singapore's experience directory
-        </p>
-        <h1 className="text-4xl font-semibold text-gray-900 leading-tight mb-4 tracking-tight">
-          Stop being boring.<br />Start doing something.
-        </h1>
-        <p className="text-gray-500 text-base mb-8 leading-relaxed">
-          Tell us the vibe. We'll find the experience. For teams, families, or just yourself.
-        </p>
+      {/* Hero banner */}
+      <section className="relative h-[520px] md:h-[580px] overflow-hidden">
+        {/* Background image */}
+        <img
+          src="/images/hero-banner.jpg"
+          alt=""
+          className="absolute inset-0 w-full h-full object-cover object-center"
+        />
 
-        {/* Search */}
-        <div className="flex items-center gap-3 bg-white border border-gray-200 rounded-2xl px-4 py-3 mb-6 max-w-xl mx-auto shadow-sm">
-          <svg className="w-5 h-5 text-gray-400 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
-            <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 15.803 7.5 7.5 0 0015.803 15.803z" />
-          </svg>
-          <input
-            type="text"
-            placeholder={`Try "something my team won't hate" or "kids + craft"`}
-            className="flex-1 text-sm text-gray-700 placeholder:text-gray-400 outline-none bg-transparent"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-          />
+        {/* Gradient overlay — dark at bottom so search box text stays readable */}
+        <div className="absolute inset-0 bg-gradient-to-b from-black/30 via-black/40 to-black/65" />
+
+        {/* Content */}
+        <div className="relative h-full flex flex-col items-center justify-center px-6 text-center">
+          <p className="text-xs font-semibold tracking-widest text-white/70 uppercase mb-4">
+            Singapore's experience directory
+          </p>
+          <h1 className="text-4xl md:text-5xl font-semibold text-white leading-tight mb-3 tracking-tight drop-shadow-sm">
+            Stop being boring.<br />Start doing something.
+          </h1>
+          <p className="text-white/75 text-base mb-8 leading-relaxed max-w-lg">
+            Tell us the vibe. We'll find the experience. For teams, families, or just yourself.
+          </p>
+
+          {/* Search box */}
+          <div className="flex items-center gap-3 bg-white rounded-2xl px-4 py-3.5 w-full max-w-xl shadow-xl">
+            <svg className="w-5 h-5 text-gray-400 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+              <path strokeLinecap="round" strokeLinejoin="round" d="M21 21l-5.197-5.197m0 0A7.5 7.5 0 105.196 15.803 7.5 7.5 0 0015.803 15.803z" />
+            </svg>
+            <input
+              type="text"
+              placeholder={`Try "something my team won't hate" or "kids + craft"`}
+              className="flex-1 text-sm text-gray-700 placeholder:text-gray-400 outline-none bg-transparent"
+              value={search}
+              onChange={(e) => setSearch(e.target.value)}
+            />
+          </div>
         </div>
-
-        {/* Mood pills */}
-        <MoodFilter onFilterChange={setActiveFilters} />
       </section>
+
+      {/* Mood filter pills — sits just below the banner */}
+      <div className="bg-white border-b border-gray-100 px-6 py-4 flex justify-center">
+        <MoodFilter onFilterChange={setActiveFilters} />
+      </div>
 
       {/* Results */}
       <div className="max-w-6xl mx-auto px-6 pb-20">

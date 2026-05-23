@@ -3,7 +3,7 @@
 
 type AppRoutes = "/" | "/activities/[slug]" | "/admin" | "/admin/[slug]" | "/admin/new" | "/for-families" | "/for-teams" | "/list-your-experience" | "/studio/[[...tool]]"
 type AppRouteHandlerRoutes = "/api/admin/listings" | "/api/admin/listings/[slug]" | "/api/admin/upload"
-type PageRoutes = "/demo/blog/[filename]"
+type PageRoutes = never
 type LayoutRoutes = "/" | "/studio/[[...tool]]"
 type RedirectRoutes = never
 type RewriteRoutes = never
@@ -19,7 +19,6 @@ interface ParamMap {
   "/api/admin/listings": {}
   "/api/admin/listings/[slug]": { "slug": string; }
   "/api/admin/upload": {}
-  "/demo/blog/[filename]": { "filename": string; }
   "/for-families": {}
   "/for-teams": {}
   "/list-your-experience": {}

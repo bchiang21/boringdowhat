@@ -4,9 +4,8 @@ export default function Navbar() {
   return (
     <nav className="border-b border-gray-100 bg-white sticky top-0 z-50">
       <div className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-        <Link href="/" className="text-base font-semibold tracking-tight">
-          boring<span className="text-emerald-600">do</span>what
-          <span className="text-gray-400 font-normal">.com</span>
+        <Link href="/" className="flex items-center">
+          <img src="/images/logo.png" alt="BoringDoWhat" className="w-[200px] h-auto" />
         </Link>
 
         <div className="flex items-center gap-8">

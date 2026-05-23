@@ -6,7 +6,6 @@ self.__BUILD_MANIFEST = {
   },
   "sortedPages": [
     "/_app",
-    "/_error",
-    "/demo/blog/[filename]"
+    "/_error"
   ]
 };self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
