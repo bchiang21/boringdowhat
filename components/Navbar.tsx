@@ -22,13 +22,19 @@ export default function Navbar() {
             For families
           </Link>
           <Link
+            href="/about"
+            className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
+          >
+            About
+          </Link>
+          <Link
             href="/list-your-experience"
             className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
           >
             List your experience
           </Link>
           <Link
-            href="/list-your-experience"
+            href="/contact"
             className="text-sm font-medium border border-gray-200 rounded-lg px-4 py-2 hover:bg-gray-50 transition-colors"
           >
             Get in touch
