@@ -1,3 +1,5 @@
+import SubmissionForm from '@/components/SubmissionForm'
+
 export default function ListYourExperience() {
   return (
     <div className="max-w-2xl mx-auto px-6 py-16">
@@ -24,7 +26,7 @@ export default function ListYourExperience() {
           },
           {
             title: 'No commission',
-            desc: 'We don\'t take a cut of your booking. You handle the transaction directly.',
+            desc: "We don't take a cut of your booking. You handle the transaction directly.",
           },
         ].map((item) => (
           <div
@@ -40,30 +42,12 @@ export default function ListYourExperience() {
         ))}
       </div>
 
-      {/* 
-        Replace the mailto below with a Tally.so embed.
-        Go to tally.so, create a free form, then embed it here like:
-        <iframe
-          src="https://tally.so/embed/YOUR_FORM_ID"
-          width="100%"
-          height="500"
-          frameBorder="0"
-          title="List your experience"
-        />
-      */}
-      <div className="bg-emerald-50 rounded-2xl p-8 text-center">
-        <h2 className="text-base font-semibold text-emerald-900 mb-2">
-          Ready to get listed?
-        </h2>
-        <p className="text-sm text-emerald-700 mb-6">
-          Drop us your details and we'll get you set up within 48 hours.
+      <div className="mb-8">
+        <h2 className="text-lg font-semibold text-gray-900 mb-1">Tell us about your experience</h2>
+        <p className="text-sm text-gray-400 mb-6">
+          Fill in as much as you can. We'll review and publish it within 48 hours.
         </p>
-        <a
-          href="mailto:hello@boringdowhat.com?subject=I want to list my experience"
-          className="inline-block text-sm font-medium bg-emerald-600 text-white px-6 py-3 rounded-xl hover:bg-emerald-700 transition-colors"
-        >
-          Get in touch →
-        </a>
+        <SubmissionForm />
       </div>
     </div>
   )
