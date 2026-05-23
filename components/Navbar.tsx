@@ -10,6 +10,12 @@ export default function Navbar() {
 
         <div className="flex items-center gap-8">
           <Link
+            href="/about"
+            className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
+          >
+            About
+          </Link>
+          <Link
             href="/for-teams"
             className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
           >
@@ -20,12 +26,6 @@ export default function Navbar() {
             className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
           >
             For families
-          </Link>
-          <Link
-            href="/about"
-            className="text-sm text-gray-500 hover:text-gray-900 transition-colors"
-          >
-            About
           </Link>
           <Link
             href="/list-your-experience"

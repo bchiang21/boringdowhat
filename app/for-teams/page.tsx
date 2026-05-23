@@ -1,9 +1,17 @@
-import listings from '@/data/listings.json'
+import fs from 'fs'
+import path from 'path'
 import { Listing } from '@/types'
 import ActivityCard from '@/components/ActivityCard'
 
+function getListings(): Listing[] {
+  const dir = path.join(process.cwd(), 'content/listings')
+  return fs.readdirSync(dir)
+    .filter(f => f.endsWith('.json'))
+    .map(f => JSON.parse(fs.readFileSync(path.join(dir, f), 'utf-8')))
+}
+
 export default function ForTeams() {
-  const teamListings = (listings as Listing[]).filter((l) =>
+  const teamListings = getListings().filter((l) =>
     l.tags.includes('team-bonding')
   )
 
