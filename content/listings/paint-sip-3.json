@@ -1,0 +1,23 @@
+{
+  "id": "42",
+  "slug": "paint-sip-3",
+  "title": "Paint & Sip",
+  "provider": "WE ART",
+  "category": "Art",
+  "description": "Grab a brush, pour yourself a drink, and get painting with WE ART's Paint & Sip session. A chill, no-pressure way to make something with your hands while enjoying a good time with friends. Great for beginners who just want a fun night out without taking art too seriously.",
+  "location": "Singapore",
+  "duration": "<UNKNOWN>",
+  "price": 0,
+  "pax": "",
+  "tags": [
+    "social",
+    "date-night",
+    "beginner",
+    "indoor",
+    "creative"
+  ],
+  "image": "/images/listings/paint-sip-3.png",
+  "featured": false,
+  "booking_url": "https://www.weart.sg/service-page/paint-sip",
+  "source_url": "https://www.weart.sg/service-page/paint-sip"
+}
