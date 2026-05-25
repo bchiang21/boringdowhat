@@ -18,9 +18,10 @@ const client = createClient({
 
 async function importListings() {
   for (const listing of listings) {
-    const doc = {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    const doc: any = {
       _type: 'listing',
-      _id: `listing-${listing.id}`,
+      _id: `listing-${listing.slug}`,
       title: listing.title,
       slug: { _type: 'slug', current: listing.slug },
       provider: listing.provider,
@@ -33,6 +34,11 @@ async function importListings() {
       tags: listing.tags,
       featured: listing.featured,
     }
+    if (listing.booking_url) doc.booking_url = listing.booking_url
+    if (listing.source_url) doc.source_url = listing.source_url
+    if (listing.contact_email) doc.contact_email = listing.contact_email
+    if (listing.whatToExpect) doc.whatToExpect = listing.whatToExpect
+    if (listing.host) doc.host = listing.host
 
     await client.createOrReplace(doc)
     console.log(`✓ Imported: ${listing.title}`)

@@ -19,5 +19,10 @@ export default {
     },
     { name: 'featured', title: 'Featured', type: 'boolean' },
     { name: 'image', title: 'Image', type: 'image', options: { hotspot: true } },
+    { name: 'booking_url', title: 'Booking URL', type: 'url' },
+    { name: 'source_url', title: 'Source URL', type: 'url' },
+    { name: 'contact_email', title: 'Contact / Enquiry Email', type: 'string' },
+    { name: 'whatToExpect', title: 'What to Expect', type: 'text' },
+    { name: 'host', title: 'Host', type: 'string' },
   ],
 }
