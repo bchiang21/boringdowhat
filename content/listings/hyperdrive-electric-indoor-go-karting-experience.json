@@ -1,0 +1,23 @@
+{
+  "id": "240",
+  "slug": "hyperdrive-electric-indoor-go-karting-experience",
+  "title": "HyperDrive: Electric Indoor Go-Karting Experience",
+  "provider": "HyperDrive (The Palawan @ Sentosa)",
+  "category": "Adventure",
+  "description": "Singapore's first multi-level indoor electric go-kart track — 308 metres, 14 turns, and legit gamified racing elements. Whether you're a total beginner or a speed demon with a licence, there's a kart for you. Air-conditioned, so no excuses about the weather. Great for families or a competitive hangout with friends.",
+  "location": "Sentosa, Palawan Beach",
+  "duration": "1h",
+  "price": 49.0,
+  "pax": "1–20",
+  "tags": [
+    "active",
+    "social",
+    "family",
+    "extrovert",
+    "date-night"
+  ],
+  "image": "/images/listings/hyperdrive-electric-indoor-go-karting-experience.jpg",
+  "featured": false,
+  "booking_url": "https://www.thepalawansentosa.com/hyperdrive",
+  "source_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/hyperdrive/"
+}
