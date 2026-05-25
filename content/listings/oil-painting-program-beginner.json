@@ -1,0 +1,23 @@
+{
+  "id": "32",
+  "slug": "oil-painting-program-beginner",
+  "title": "Oil Painting Program - Beginner",
+  "provider": "LACA Art Academy",
+  "category": "Art",
+  "description": "A proper 12-lesson oil painting course for true beginners — no experience needed. You'll work through still life, landscapes, and portraits, finishing with an alla prima portraiture session. Classes are flexible, max 6 pax, and all materials are included. Great if you want to actually learn oil painting, not just dabble.",
+  "location": "Kreta Ayer",
+  "duration": "2h per lesson (12 lessons)",
+  "price": 800.0,
+  "pax": "1–6",
+  "tags": [
+    "beginner",
+    "creative",
+    "indoor",
+    "solo",
+    "introvert"
+  ],
+  "image": "/images/listings/oil-painting-program-beginner.jpg",
+  "featured": false,
+  "booking_url": "https://www.laca.sg/products/oil-painting-beginner",
+  "source_url": "https://www.laca.sg/products/oil-painting-beginner"
+}
