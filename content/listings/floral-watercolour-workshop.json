@@ -1,0 +1,23 @@
+{
+  "id": "15",
+  "slug": "floral-watercolour-workshop",
+  "title": "Floral Watercolour Workshop",
+  "provider": "LACA",
+  "category": "Art",
+  "description": "Pick up watercolour painting the chill way — LACA's 2-hour floral workshop teaches you botanical illustration techniques developed by their founder. No experience needed, and you'll leave with an actual painting on proper cold-pressed paper. Over 1,000 students have gone through this, so you're in good hands.",
+  "location": "Kreta Ayer",
+  "duration": "2h",
+  "price": 55.0,
+  "pax": "1–5",
+  "tags": [
+    "creative",
+    "beginner",
+    "indoor",
+    "date-night",
+    "solo"
+  ],
+  "image": "/images/listings/floral-watercolour-workshop.jpg",
+  "featured": false,
+  "booking_url": "https://www.laca.sg/products/watercolour-floral-workshop",
+  "source_url": "https://www.laca.sg/products/watercolour-floral-workshop"
+}
