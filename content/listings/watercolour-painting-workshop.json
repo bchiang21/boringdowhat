@@ -1,0 +1,23 @@
+{
+  "id": "19",
+  "slug": "watercolour-painting-workshop",
+  "title": "Watercolour Painting Workshop",
+  "provider": "SGArtClass",
+  "category": "Art",
+  "description": "Pick up watercolour basics (or level up your skills) in a chill, guided workshop that's equal parts art class and therapy session. You'll learn wet-in-wet, dry brush, colour theory, and even some fun tricks like salt textures. Works for total beginners, seasoned painters, and corporate team bonding alike.",
+  "location": "",
+  "duration": "",
+  "price": 0,
+  "pax": "",
+  "tags": [
+    "creative",
+    "indoor",
+    "beginner",
+    "burned-out",
+    "social"
+  ],
+  "image": "/images/listings/watercolour-painting-workshop.png",
+  "featured": false,
+  "booking_url": "https://sgartclass.com/watercolor-painting/",
+  "source_url": "https://sgartclass.com/watercolor-painting/"
+}
