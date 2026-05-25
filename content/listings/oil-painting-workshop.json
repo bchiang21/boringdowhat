@@ -1,0 +1,23 @@
+{
+  "id": "31",
+  "slug": "oil-painting-workshop",
+  "title": "Oil Painting Workshop",
+  "provider": "SGArtClass",
+  "category": "Art",
+  "description": "Learn the classic art of oil painting with SGArtClass — covering everything from blending techniques to tools and materials. Suits both total beginners and those looking to level up. Expect a chill, guided session where you actually walk away with something you made yourself.",
+  "location": "",
+  "duration": "",
+  "price": 0,
+  "pax": "",
+  "tags": [
+    "creative",
+    "beginner",
+    "indoor",
+    "social",
+    "burned-out"
+  ],
+  "image": "/images/listings/oil-painting-workshop.png",
+  "featured": false,
+  "booking_url": "https://sgartclass.com/oil-painting/",
+  "source_url": "https://sgartclass.com/oil-painting/"
+}
