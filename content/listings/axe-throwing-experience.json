@@ -1,0 +1,23 @@
+{
+  "id": "221",
+  "slug": "axe-throwing-experience",
+  "title": "Axe Throwing Experience",
+  "provider": "Axe Factor",
+  "category": "Adventure",
+  "description": "Singapore's first and only axe throwing facility, tucked in Sentosa's Mess Hall. Coach-guided sessions mean total beginners are welcome — they'll walk you through technique and safety before you start hurling. Pick your game mode, bring your kakis, and yes, you can upgrade to a tomahawk.",
+  "location": "Sentosa",
+  "duration": "1–2h",
+  "price": 38.0,
+  "pax": "1–25",
+  "tags": [
+    "social",
+    "active",
+    "extrovert",
+    "beginner",
+    "indoor"
+  ],
+  "image": "/images/listings/axe-throwing-experience.jpg",
+  "featured": false,
+  "booking_url": "https://tickets.axefactor.com.sg/tours/singapore/singapore/axe-throwing-sentosa",
+  "source_url": "https://tickets.axefactor.com.sg/tours/singapore/singapore/axe-throwing-sentosa"
+}
