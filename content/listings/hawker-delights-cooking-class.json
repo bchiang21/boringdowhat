@@ -1,0 +1,23 @@
+{
+  "id": "149",
+  "slug": "hawker-delights-cooking-class",
+  "title": "Hawker Delights Cooking Class",
+  "provider": "Pots & Pans Culinary Studio",
+  "category": "Culinary",
+  "description": "Learn to whip up Singapore's most beloved hawker dishes — think chili crab, laksa, nasi lemak, and chicken rice — in a hands-on cooking class that's beginner-friendly. SkillsFuture credits applicable, so you can offset a big chunk of the $784.80 full fee. Max 24 pax, two to a cooking station, and yes, they provide all the ingredients and takeaway containers.",
+  "location": "Tanjong Pagar",
+  "duration": "2 sessions",
+  "price": 280.8,
+  "pax": "1–24",
+  "tags": [
+    "social",
+    "beginner",
+    "indoor",
+    "family",
+    "creative"
+  ],
+  "image": "/images/listings/hawker-delights-cooking-class.jpg",
+  "featured": false,
+  "booking_url": "https://www.potsandpans.com.sg/skillsfuture-course/hawker-delights",
+  "source_url": "https://www.potsandpans.com.sg/skillsfuture-course/hawker-delights"
+}
