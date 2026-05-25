@@ -1,0 +1,23 @@
+{
+  "id": "116",
+  "slug": "embroidery-workshop",
+  "title": "Embroidery Workshop",
+  "provider": "Craft Labs",
+  "category": "Craft",
+  "description": "Learn the basics of hand embroidery and stitch your own design onto a cup holder or pouch — no experience needed. Craft Labs keeps groups small so trainers can give proper guidance. Great for a chill weekend activity, team bonding, or even a hens party. All materials provided, just bring your hands.",
+  "location": "Marymount",
+  "duration": "1–2h",
+  "price": 0,
+  "pax": "2+",
+  "tags": [
+    "creative",
+    "indoor",
+    "beginner",
+    "social",
+    "burned-out"
+  ],
+  "image": "/images/listings/embroidery-workshop.jpg",
+  "featured": false,
+  "booking_url": "https://www.craftlabs.sg/workshops/embroidery-workshop/",
+  "source_url": "https://www.craftlabs.sg/workshops/embroidery-workshop/"
+}
