@@ -1,0 +1,23 @@
+{
+  "id": "36",
+  "slug": "paint-sip-2",
+  "title": "Paint & Sip",
+  "provider": "COZE+",
+  "category": "Art",
+  "description": "Grab a drink and get painting — no skill required. COZE+'s Paint & Sip session gives you 3 hours of free-and-easy art jamming with a canvas, all the acrylic materials you need, and unlimited soft drinks, coffee, and tea included. Perfect for total beginners just looking for a chill creative outlet.",
+  "location": "King George's Avenue",
+  "duration": "3h",
+  "price": 40.0,
+  "pax": "",
+  "tags": [
+    "creative",
+    "indoor",
+    "beginner",
+    "social",
+    "date-night"
+  ],
+  "image": "/images/listings/paint-sip-2.jpg",
+  "featured": false,
+  "booking_url": "https://www.cozeplus.com.sg/service-page/paintandsip",
+  "source_url": "https://www.cozeplus.com.sg/service-page/paintandsip"
+}
