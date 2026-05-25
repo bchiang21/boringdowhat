@@ -1,0 +1,23 @@
+{
+  "id": "329",
+  "slug": "aerial-yoga-class",
+  "title": "Aerial Yoga Class",
+  "provider": "Dream Dance and Yoga",
+  "category": "Wellness",
+  "description": "Ever wanted to try yoga but with a hammock doing half the work? Dream Dance and Yoga's Aerial Yoga class is open to all levels — no flexibility required. You'll build core strength, improve posture, and get a solid stretch in spots regular yoga can't reach. Bonus: that floaty, weightless feeling is genuinely hard to beat.",
+  "location": "Singapore",
+  "duration": "60 min",
+  "price": 0,
+  "pax": "",
+  "tags": [
+    "beginner",
+    "indoor",
+    "wellness",
+    "solo",
+    "active"
+  ],
+  "image": "/images/listings/aerial-yoga-class.webp",
+  "featured": false,
+  "booking_url": "https://dreamdanceyoga.com/aerial-yoga",
+  "source_url": "https://dreamdanceyoga.com/aerial-yoga"
+}
