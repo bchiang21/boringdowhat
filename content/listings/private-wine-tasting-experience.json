@@ -1,0 +1,23 @@
+{
+  "id": "201",
+  "slug": "private-wine-tasting-experience",
+  "title": "Private Wine Tasting Experience",
+  "provider": "Chef De Maison",
+  "category": "Culinary",
+  "description": "Bring the sommelier to you — Chef De Maison runs private wine tasting events at your home or office, covering French, Italian, and Spanish wines. Learn how to taste, serve, and pair wine with food, all guided by experienced sommeliers. Events are fully customised to your vibe, whether it's a chill home session or a corporate wine & cheese night.",
+  "location": "",
+  "duration": "",
+  "price": 0,
+  "pax": "",
+  "tags": [
+    "social",
+    "date-night",
+    "beginner",
+    "indoor",
+    "extrovert"
+  ],
+  "image": "/images/listings/private-wine-tasting-experience.jpg",
+  "featured": false,
+  "booking_url": "https://privatechef.sg/wine-tasting",
+  "source_url": "https://privatechef.sg/wine-tasting"
+}
