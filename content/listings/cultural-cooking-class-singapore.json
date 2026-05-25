@@ -1,0 +1,23 @@
+{
+  "id": "135",
+  "slug": "cultural-cooking-class-singapore",
+  "title": "Cultural Cooking Class Singapore",
+  "provider": "Food Playground",
+  "category": "Culinary",
+  "description": "Learn to cook proper Singaporean dishes — think Laksa, Curry Chicken, Nasi Lemak — using real family recipes passed down through generations. Run by a social enterprise with genuinely warm instructors, this 3-hour hands-on class covers local food culture stories before you sit down to eat what you made. No cooking experience needed, and yes, the food actually tastes good.",
+  "location": "Chinatown",
+  "duration": "3h",
+  "price": 120.0,
+  "pax": "1–20",
+  "tags": [
+    "social",
+    "beginner",
+    "indoor",
+    "date-night",
+    "family"
+  ],
+  "image": "",
+  "featured": false,
+  "booking_url": "https://www.foodplayground.com.sg/cultural-cooking-class.html",
+  "source_url": "https://www.foodplayground.com.sg/cultural-cooking-class.html"
+}
