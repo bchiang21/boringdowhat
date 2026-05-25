@@ -36,6 +36,9 @@ export default function EditForm({ listing, isNew = false }: Props) {
     images: [],
     host: { name: '', bio: '', avatar: '' },
     whatToExpect: '',
+    booking_url: '',
+    source_url: '',
+    contact_email: '',
     ...listing,
   })
   const [status, setStatus] = useState<'idle' | 'saving' | 'saved' | 'error'>('idle')
@@ -140,6 +143,39 @@ export default function EditForm({ listing, isNew = false }: Props) {
             className="w-4 h-4 accent-emerald-600"
           />
           <label htmlFor="featured" className="text-sm text-gray-700">Featured listing</label>
+        </div>
+      </Section>
+
+      {/* ── Booking & Links ───────────────────────────────────── */}
+      <Section title="Booking & Links" hint="The 'Book now' button uses the booking URL. Source URL is for internal reference only.">
+        <div className="space-y-3">
+          <Field label="Booking URL" hint="Direct link to book or register — shown as the primary 'Book now' button on the listing page.">
+            <input
+              className={input}
+              type="url"
+              value={form.booking_url ?? ''}
+              onChange={e => set('booking_url', e.target.value)}
+              placeholder="https://..."
+            />
+          </Field>
+          <Field label="Source URL" hint="Original provider or crawler source page — internal reference, not shown publicly.">
+            <input
+              className={input}
+              type="url"
+              value={form.source_url ?? ''}
+              onChange={e => set('source_url', e.target.value)}
+              placeholder="https://..."
+            />
+          </Field>
+          <Field label="Enquiry email" hint="Provider's contact email for the 'Send an enquiry' button. Defaults to hello@boringdowhat.com if left blank.">
+            <input
+              className={input}
+              type="email"
+              value={form.contact_email ?? ''}
+              onChange={e => set('contact_email', e.target.value)}
+              placeholder="provider@example.com"
+            />
+          </Field>
         </div>
       </Section>
 

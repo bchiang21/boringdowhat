@@ -119,7 +119,8 @@ export default async function ActivityPage({ params }: { params: Promise<{ slug:
   const listing = getListings().find((l) => l.slug === slug)
   if (!listing) notFound()
 
-  const mailtoHref = `mailto:hello@boringdowhat.com?subject=Enquiry: ${listing.title}&body=Hi, I'm interested in ${listing.title} by ${listing.provider}. Please share more details.`
+  const enquiryEmail = listing.contact_email || 'hello@boringdowhat.com'
+  const mailtoHref = `mailto:${enquiryEmail}?subject=Enquiry: ${listing.title}&body=Hi, I'm interested in ${listing.title} by ${listing.provider}. Please share more details.`
 
   const paragraphs = listing.whatToExpect?.split('\n\n').filter(Boolean) ?? []
 
@@ -185,13 +186,32 @@ export default async function ActivityPage({ params }: { params: Promise<{ slug:
             from ${listing.price}
             <span className="text-base font-normal text-gray-500"> / pax</span>
           </p>
-          <p className="text-xs text-gray-400 mb-4">No commission. Enquire directly with the provider.</p>
-          <a
-            href={mailtoHref}
-            className="block w-full text-center text-sm font-semibold bg-emerald-600 text-white px-6 py-3 rounded-xl hover:bg-emerald-700 transition-colors"
-          >
-            Send an enquiry
-          </a>
+          <p className="text-xs text-gray-400 mb-4">No commission. Book or enquire directly with the provider.</p>
+          {listing.booking_url ? (
+            <div className="flex flex-col gap-2">
+              <a
+                href={listing.booking_url}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="block w-full text-center text-sm font-semibold bg-emerald-600 text-white px-6 py-3 rounded-xl hover:bg-emerald-700 transition-colors"
+              >
+                Book now →
+              </a>
+              <a
+                href={mailtoHref}
+                className="block w-full text-center text-sm font-medium text-gray-500 border border-gray-200 px-6 py-3 rounded-xl hover:bg-gray-50 transition-colors"
+              >
+                Send an enquiry
+              </a>
+            </div>
+          ) : (
+            <a
+              href={mailtoHref}
+              className="block w-full text-center text-sm font-semibold bg-emerald-600 text-white px-6 py-3 rounded-xl hover:bg-emerald-700 transition-colors"
+            >
+              Send an enquiry
+            </a>
+          )}
         </div>
       </div>
 

@@ -4,11 +4,11 @@
   "title": "3 hr Embroidery Workshop (Age 7+)",
   "provider": "Sage Artelier Studio",
   "category": "Craft",
-  "description": "Pick up embroidery from scratch in this 3-hour hands-on workshop at Sage Artelier Studio in Sin Ming. No arts background needed — experienced instructors guide you through every stitch. You'll bring home your own finished piece, plus all materials are provided. Great for families, dates, or just a chill creative afternoon.",
   "location": "Sin Ming",
   "duration": "3h",
-  "price": 98.0,
+  "price": 98,
   "pax": "1–8",
+  "featured": false,
   "tags": [
     "creative",
     "indoor",
@@ -16,8 +16,16 @@
     "date-night",
     "family"
   ],
+  "description": "Pick up embroidery from scratch in this 3-hour hands-on workshop at Sage Artelier Studio in Sin Ming. No arts background needed — experienced instructors guide you through every stitch. You'll bring home your own finished piece, plus all materials are provided. Great for families, dates, or just a chill creative afternoon.",
   "image": "/images/listings/3-hr-embroidery-workshop-age-7.jpg",
-  "featured": false,
-  "booking_url": "https://www.seeksophie.com/experiences/singapore-2-hr-embroidery-workshop-o14jn0gpzq",
-  "source_url": "https://www.seeksophie.com/experiences/singapore-2-hr-embroidery-workshop-o14jn0gpzq"
+  "images": [],
+  "host": {
+    "name": "",
+    "bio": "",
+    "avatar": ""
+  },
+  "whatToExpect": "",
+  "booking_url": "https://sageartelier.com/",
+  "source_url": "https://sageartelier.com/",
+  "contact_email": ""
 }

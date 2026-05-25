@@ -21,6 +21,9 @@ export type Listing = {
   featured: boolean
   host?: Host
   whatToExpect?: string
+  booking_url?: string
+  source_url?: string
+  contact_email?: string
 }
 
 export type MoodFilter = {

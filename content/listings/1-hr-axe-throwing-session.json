@@ -4,11 +4,11 @@
   "title": "1 Hr Axe Throwing Session",
   "provider": "Axe Factor",
   "category": "Adventure",
-  "description": "Singapore's first axe throwing range lets you channel your inner Viking for a solid hour. Great for blowing off steam, celebrating birthdays, or just doing something wildly different on a weekend. An experienced instructor guides you through proper technique, and yes — there's even a birthday cake-cutting axe moment. 🪓",
   "location": "Sentosa",
   "duration": "1h",
   "price": 41.5,
   "pax": "1–30",
+  "featured": false,
   "tags": [
     "active",
     "social",
@@ -16,8 +16,15 @@
     "date-night",
     "burned-out"
   ],
+  "description": "Singapore's first axe throwing range lets you channel your inner Viking for a solid hour. Great for blowing off steam, celebrating birthdays, or just doing something wildly different on a weekend. An experienced instructor guides you through proper technique, and yes — there's even a birthday cake-cutting axe moment. 🪓",
   "image": "/images/listings/1-hr-axe-throwing-session.jpg",
-  "featured": false,
-  "booking_url": "https://www.seeksophie.com/experiences/singapore-1-hr-axe-throwing-session-o7mzxq2kjo",
-  "source_url": "https://www.seeksophie.com/experiences/singapore-1-hr-axe-throwing-session-o7mzxq2kjo"
+  "images": [],
+  "host": {
+    "name": "The Axe Factor",
+    "bio": "Axe Factor Sentosa offers a unique and thrilling experience for both tourists and locals looking to spice up their leisure time. Nestled in the vibrant heart of Sentosa Island, Singapore, this premier axe throwing venue provides an adventurous escape where participants can unleash their inner warrior.\n\nIdeal for friends, family, or corporate groups, Axe Factor offers a blend of fun, challenge, and excitement. Whether you're a seasoned axe thrower or a beginner eager to learn, the expert coaches ensure a safe and enjoyable experience. After throwing axes, visitors can explore the island's numerous attractions, making it a perfect day out.\n\nEmbrace the thrill of axe throwing at Axe Factor Sentosa – where fun meets adrenaline in Singapore's most iconic leisure destination! \n\nImportant Note: Each booking timeslot allows a maximum of 5 pax.",
+    "avatar": ""
+  },
+  "whatToExpect": "Axe Factor Sentosa offers a unique and thrilling experience for both tourists and locals looking to spice up their leisure time. Nestled in the vibrant heart of Sentosa Island, Singapore, this premier axe throwing venue provides an adventurous escape where participants can unleash their inner warrior.\n\nIdeal for friends, family, or corporate groups, Axe Factor offers a blend of fun, challenge, and excitement. Whether you're a seasoned axe thrower or a beginner eager to learn, the expert coaches ensure a safe and enjoyable experience. After throwing axes, visitors can explore the island's numerous attractions, making it a perfect day out.\n\nEmbrace the thrill of axe throwing at Axe Factor Sentosa – where fun meets adrenaline in Singapore's most iconic leisure destination! \n\nImportant Note: Each booking timeslot allows a maximum of 5 pax.",
+  "booking_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/axe-factor/",
+  "source_url": "https://www.sentosa.com.sg/en/things-to-do/attractions/axe-factor/"
 }
