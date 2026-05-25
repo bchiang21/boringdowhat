@@ -1,0 +1,23 @@
+{
+  "id": "35",
+  "slug": "paint-sip",
+  "title": "Paint & Sip",
+  "provider": "WE ART",
+  "category": "Art",
+  "description": "Grab a brush, pour yourself a drink, and get painting at WE ART's Orchard studio. BYOB (they'll provide the glasses), pick from five styles like impasto or couples painting, and let their instructors guide you through it. No experience needed — just show up, sip, and see what happens on the canvas.",
+  "location": "Orchard",
+  "duration": "2h",
+  "price": 70.0,
+  "pax": "",
+  "tags": [
+    "date-night",
+    "social",
+    "beginner",
+    "indoor",
+    "creative"
+  ],
+  "image": "/images/listings/paint-sip.jpg",
+  "featured": false,
+  "booking_url": "https://www.weart.sg/paint-and-sip",
+  "source_url": "https://www.weart.sg/paint-and-sip"
+}
