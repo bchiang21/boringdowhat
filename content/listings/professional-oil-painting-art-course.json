@@ -1,0 +1,23 @@
+{
+  "id": "24",
+  "slug": "professional-oil-painting-art-course",
+  "title": "Professional Oil Painting Art Course",
+  "provider": "Visual Arts Centre",
+  "category": "Art",
+  "description": "Learn oil painting from scratch or level up your existing skills at Visual Arts Centre's studio near Dhoby Ghaut. Classes cover still life, landscapes, portraiture, and more — taught by professionally trained artists using an academy-school approach. All materials included, so just show up and paint. Suitable for teens and adults, beginners to advanced.",
+  "location": "Dhoby Ghaut",
+  "duration": "2h 15min",
+  "price": 0,
+  "pax": "",
+  "tags": [
+    "creative",
+    "beginner",
+    "indoor",
+    "solo",
+    "social"
+  ],
+  "image": "/images/listings/professional-oil-painting-art-course.webp",
+  "featured": false,
+  "booking_url": "https://visualartscentre.sg/courses/oil-painting-classes/",
+  "source_url": "https://visualartscentre.sg/courses/oil-painting-classes/"
+}
