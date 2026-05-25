@@ -1,0 +1,23 @@
+{
+  "id": "215",
+  "slug": "esc-escape-science-centre",
+  "title": "E.S.C. - Escape @ Science Centre",
+  "provider": "Science Centre Singapore",
+  "category": "Adventure",
+  "description": "Not your typical escape room with combination locks — E.S.C. mixes STEM puzzles, theatrical storylines, and wild physical elements like ball-filled enclosures and shaking floors. Pick from three worlds: Museum of Humankind, Shangri-La, or Dr. X. Great for groups who want something more hands-on and legit challenging. One room even lets you use your phone, so your IG is safe.",
+  "location": "Jurong East",
+  "duration": "90 min",
+  "price": 25.0,
+  "pax": "2–20",
+  "tags": [
+    "social",
+    "active",
+    "extrovert",
+    "date-night",
+    "indoor"
+  ],
+  "image": "/images/listings/esc-escape-science-centre.jpg",
+  "featured": false,
+  "booking_url": "https://www.esc.sg",
+  "source_url": "https://www.science.edu.sg/whats-on/escape-at-science-centre"
+}
