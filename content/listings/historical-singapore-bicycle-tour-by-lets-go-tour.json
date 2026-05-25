@@ -1,0 +1,23 @@
+{
+  "id": "260",
+  "slug": "historical-singapore-bicycle-tour-by-lets-go-tour",
+  "title": "Historical Singapore Bicycle Tour by Let's Go Tour",
+  "provider": "Let's Go Tour",
+  "category": "Outdoor",
+  "description": "Cycle ~20km through Singapore's iconic neighbourhoods — Chinatown, Kampong Glam, the Singapore River, and more — with a knowledgeable local guide. You'll get a proper peek at everyday Singapore life, hit up a market, and even sample some local food. Tours run rain or shine, so no excuses.",
+  "location": "Lavender",
+  "duration": "4h",
+  "price": 80.0,
+  "pax": "2–20",
+  "tags": [
+    "active",
+    "social",
+    "outdoor",
+    "extrovert",
+    "date-night"
+  ],
+  "image": "/images/listings/historical-singapore-bicycle-tour-by-lets-go-tour.jpg",
+  "featured": false,
+  "booking_url": "https://gocity.com/en/singapore/attractions/lets-go-bike-singapore",
+  "source_url": "https://gocity.com/en/singapore/attractions/lets-go-bike-singapore"
+}
