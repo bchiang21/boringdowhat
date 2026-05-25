@@ -1,0 +1,23 @@
+{
+  "id": "29",
+  "slug": "adult-personalised-art-lessons",
+  "title": "Adult Personalised Art Lessons",
+  "provider": "The Fort Studios",
+  "category": "Art",
+  "description": "Pick up painting or drawing at your own pace in a relaxed open-studio setting. Choose your medium — acrylics, watercolour, oil, charcoal, you name it — and work on whatever you want with guidance from a teaching artist. Great for total beginners and rusty creatives alike. All materials included, no judgment vibes only.",
+  "location": "Bukit Timah",
+  "duration": "2.5h",
+  "price": 30.0,
+  "pax": "1–8",
+  "tags": [
+    "creative",
+    "introvert",
+    "beginner",
+    "indoor",
+    "social"
+  ],
+  "image": "/images/listings/adult-personalised-art-lessons.jpg",
+  "featured": false,
+  "booking_url": "https://www.thefortstudios.sg/adult-group-lessons",
+  "source_url": "https://www.thefortstudios.sg/adult-group-lessons"
+}
