@@ -1,0 +1,23 @@
+{
+  "id": "51",
+  "slug": "candle-making-workshop",
+  "title": "Candle Making Workshop",
+  "provider": "FunEmpire",
+  "category": "Craft",
+  "description": "Pick your scent, pour your wax, and walk away with a candle you actually made yourself. FunEmpire's candle workshop is chill, beginner-friendly, and works for everything from team bonding to birthday hangs. Choose between gel or soy candles — all materials provided, no experience needed. Studio's in Tai Seng but they can come to you too.",
+  "location": "Tai Seng",
+  "duration": "90 min",
+  "price": 32.0,
+  "pax": "5–100",
+  "tags": [
+    "social",
+    "creative",
+    "beginner",
+    "indoor",
+    "family"
+  ],
+  "image": "/images/listings/candle-making-workshop.jpg",
+  "featured": false,
+  "booking_url": "https://www.funempire.com/candle-making-workshop/",
+  "source_url": "https://www.funempire.com/candle-making-workshop/"
+}
