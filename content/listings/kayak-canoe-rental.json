@@ -1,0 +1,23 @@
+{
+  "id": "247",
+  "slug": "kayak-canoe-rental",
+  "title": "Kayak & Canoe Rental",
+  "provider": "The Kallang",
+  "category": "Adventure",
+  "description": "Grab a kayak or canoe and paddle around the Kallang Basin — no booking needed, just walk in. Great for families, beginners, and anyone who wants to be on the water without too much planning. Keep an eye out for the resident otters while you're at it. Rentals come in 2-hour or full-day options.",
+  "location": "Kallang",
+  "duration": "2h",
+  "price": 14.0,
+  "pax": "1–3",
+  "tags": [
+    "active",
+    "family",
+    "outdoor",
+    "social",
+    "beginner"
+  ],
+  "image": "",
+  "featured": false,
+  "booking_url": "",
+  "source_url": "https://www.thekallang.com.sg/sport-fitness/kayak-canoe"
+}
