@@ -1,0 +1,23 @@
+{
+  "id": "47",
+  "slug": "resin-art-workshop",
+  "title": "Resin Art Workshop",
+  "provider": "SGArtClass",
+  "category": "Craft",
+  "description": "Get your hands sticky with epoxy resin and walk away with your own coaster, keychain, pendant, or tray. SGArtClass guides you through the whole process — mixing, pouring, and curing — so no experience needed. Good for team bonding or just a chill creative afternoon. Customisable themes available too.",
+  "location": "",
+  "duration": "",
+  "price": 0,
+  "pax": "",
+  "tags": [
+    "beginner",
+    "creative",
+    "social",
+    "indoor",
+    "date-night"
+  ],
+  "image": "/images/listings/resin-art-workshop.png",
+  "featured": false,
+  "booking_url": "https://sgartclass.com/resin/",
+  "source_url": "https://sgartclass.com/resin/"
+}
