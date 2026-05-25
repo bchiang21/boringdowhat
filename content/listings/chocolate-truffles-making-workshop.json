@@ -1,0 +1,23 @@
+{
+  "id": "176",
+  "slug": "chocolate-truffles-making-workshop",
+  "title": "Chocolate Truffles Making Workshop",
+  "provider": "Anjali Chocolat",
+  "category": "Culinary",
+  "description": "Make your own dark chocolate truffles from scratch with a pro chocolatier guiding you through it. While your truffles set, you'll also customise your own chocolate bar. Go home with 12–15 truffles and a bar — not bad for two hours' work. Great for groups, team bonding, or just an excuse to eat a lot of chocolate.",
+  "location": "Dempsey",
+  "duration": "2h",
+  "price": 125.0,
+  "pax": "6–30",
+  "tags": [
+    "social",
+    "creative",
+    "indoor",
+    "beginner",
+    "date-night"
+  ],
+  "image": "/images/listings/chocolate-truffles-making-workshop.jpg",
+  "featured": false,
+  "booking_url": "https://www.anjalichocolat.com/workshops",
+  "source_url": "https://www.anjalichocolat.com/workshops"
+}
