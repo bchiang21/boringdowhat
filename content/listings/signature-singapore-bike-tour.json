@@ -1,0 +1,23 @@
+{
+  "id": "262",
+  "slug": "signature-singapore-bike-tour",
+  "title": "Signature Singapore Bike Tour",
+  "provider": "Bike Tours",
+  "category": "Outdoor",
+  "description": "A 4-hour guided bike tour hitting all of Singapore's greatest hits — Marina Bay, Chinatown, Haji Lane, Little India, Kampong Glam and more. You'll get a knowledgeable English-speaking guide, bike rental, and refreshments included. Great for families or first-timers who want to actually see the city instead of just Grab-ing everywhere.",
+  "location": "Marina Bay",
+  "duration": "4h",
+  "price": 82.0,
+  "pax": "",
+  "tags": [
+    "active",
+    "outdoor",
+    "social",
+    "family",
+    "beginner"
+  ],
+  "image": "/images/listings/signature-singapore-bike-tour.jpg",
+  "featured": false,
+  "booking_url": "https://www.biketours.com/singapore/day-tours/signature-singapore-bike-tour/",
+  "source_url": "https://www.biketours.com/singapore/day-tours/signature-singapore-bike-tour/"
+}
