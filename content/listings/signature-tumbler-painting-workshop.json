@@ -1,0 +1,23 @@
+{
+  "id": "39",
+  "slug": "signature-tumbler-painting-workshop",
+  "title": "Signature Tumbler Painting Workshop",
+  "provider": "A Painted Sip",
+  "category": "Art",
+  "description": "Singapore's first tumbler painting studio lets you pick stencils, grab a premium stainless steel tumbler, and go to town with guided instruction — no art skills needed. In 2 hours you'll walk out with a personalised, durable tumbler you'll actually use daily. Great for dates, families, tourists, or just a chill creative afternoon near Jalan Besar.",
+  "location": "Jalan Besar",
+  "duration": "2h",
+  "price": 75.0,
+  "pax": "",
+  "tags": [
+    "date-night",
+    "beginner",
+    "creative",
+    "family",
+    "indoor"
+  ],
+  "image": "/images/listings/signature-tumbler-painting-workshop.png",
+  "featured": false,
+  "booking_url": "https://apaintedsip.com/",
+  "source_url": "https://apaintedsip.com/"
+}
