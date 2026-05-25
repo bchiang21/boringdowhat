@@ -1,0 +1,23 @@
+{
+  "id": "126",
+  "slug": "basic-fine-script-calligraphy-workshop",
+  "title": "Basic Fine Script Calligraphy Workshop",
+  "provider": "Bynd Artisan",
+  "category": "Art",
+  "description": "Learn the art of dip pen calligraphy in this 3-hour hands-on workshop led by Joanne from The Letter J Supply. You'll go from zero to writing connected script by the end — basic strokes, minuscules, and letter connections all covered. No prior experience needed, and all materials (pen holder, nibs, ink, booklet) are yours to take home.",
+  "location": "Raffles City",
+  "duration": "3h",
+  "price": 150.0,
+  "pax": "1",
+  "tags": [
+    "creative",
+    "indoor",
+    "beginner",
+    "solo",
+    "date-night"
+  ],
+  "image": "/images/listings/basic-fine-script-calligraphy-workshop.jpg",
+  "featured": false,
+  "booking_url": "https://www.byndartisan.com/products/basic-fine-script-calligraphy-workshop",
+  "source_url": "https://www.byndartisan.com/products/basic-fine-script-calligraphy-workshop"
+}
