@@ -1,0 +1,23 @@
+{
+  "id": "26",
+  "slug": "oil-painting-trial-class",
+  "title": "Oil Painting Trial Class",
+  "provider": "Visual Arts Centre",
+  "category": "Art",
+  "description": "Never touched oil paints before? This 2h 15min trial class at Visual Arts Centre eases you in — sketch, blend, and go wet-on-wet with a pro instructor by your side. All materials (canvas, paints, brushes, even aprons) are included, so just show up. Great for total beginners or anyone wanting a low-commitment dip into oil painting.",
+  "location": "Dhoby Ghaut",
+  "duration": "2h 15min",
+  "price": 55.0,
+  "pax": "",
+  "tags": [
+    "beginner",
+    "indoor",
+    "creative",
+    "solo",
+    "date-night"
+  ],
+  "image": "/images/listings/oil-painting-trial-class.webp",
+  "featured": false,
+  "booking_url": "https://visualartscentre.sg/courses/oil-painting-course-trial/",
+  "source_url": "https://visualartscentre.sg/courses/oil-painting-course-trial/"
+}
