@@ -1,0 +1,23 @@
+{
+  "id": "243",
+  "slug": "kf1-kiddy-circuit",
+  "title": "KF1 Kiddy Circuit",
+  "provider": "KF1 Kiddy Circuit",
+  "category": "Adventure",
+  "description": "Singapore's first immersive go-karting experience built for kids — think real go-karts, radio-controlled cars, and VR driving all under one roof. There's even a 30-metre interactive projection wall to make each race feel extra dramatic. Safe, child-friendly, and genuinely fun for parents to watch too. Located at Singapore Expo Hall 8A.",
+  "location": "Singapore Expo",
+  "duration": "10 min",
+  "price": 0,
+  "pax": "",
+  "tags": [
+    "family",
+    "active",
+    "social",
+    "indoor",
+    "beginner"
+  ],
+  "image": "/images/listings/kf1-kiddy-circuit.jpg",
+  "featured": false,
+  "booking_url": "https://feverup.com/m/256328",
+  "source_url": "https://feverup.com/m/256328"
+}
